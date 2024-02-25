@@ -1,0 +1,32 @@
+{
+  "name": "yehiibhii-dark-estudio-legacy",
+  "displayName": "yehiibhii-dark-estudio-legacy",
+  "description": "colores oficiales de Juanito Veneno Estudio ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yehiibhii Estudio Legacy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yehiibhii Estudio Legacy-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/yehiibhii.png",
+  "author": {
+    "name": "Daniel Vallejo",
+    "email": "holadhan@juanitovenenoestudio",
+    "url": "https://dannyveneno.tech"
+  },
+  "repository": {
+    "url": "https://github.com/DanyVeneno/VSthemecode2024.git",
+    "type": "git"
+  },
+  "publisher": "yehiibhiiEstudio"
+}
