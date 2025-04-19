@@ -1,10 +1,12 @@
-# Juanito Veneno Estudio
+# Yehiibhii Estudio
 
-#### Es un estudio de trabajo donde desarrollamos herramientas con la misión de fortalecer el crecimiento y evolución de tu negocio, empresa o marca personal, desarrollando un modelo nuevo de negocio, con la característica de agregar y crear valor a tus productos y/o servicios, utilizando la integración de tecnología web y digital que los segmentos de mercado están buscando.
+#### En Yehiibhii Estudio, estamos convencidos de que la única constante es el cambio. La disrupción tecnológica es inevitable, y por eso decidimos acompañarte en la actualización de la manera en que ofreces tus productos y/o servicios.
 
-Disrupt yourself or not!
+A partir de esta transformación, desarrollamos estrategias web y herramientas digitales con la misión de fortalecer el crecimiento y la evolución de tu negocio, empresa o marca personal.
 
-Tema inspirado en los colores oficiales de Juanito Veneno Estudio.
+Atrévete al cambio, transformate a lo digital.
 
-https://www.juanitovenenoestudio.com <br>
-https://dannyveneno.tech
+Tema inspirado en los colores oficiales de Yehiibhii Estudio.
+
+https://yehiibhiiestudio.tech <br>
+https://ybestudio.tech
